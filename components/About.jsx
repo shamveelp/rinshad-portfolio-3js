@@ -65,7 +65,7 @@ function About() {
           ))}
         </div>
         <Link
-          href="document/"
+          href="#"
           target="_blank"
           rel="noreferrer"
           className="w-fit"
